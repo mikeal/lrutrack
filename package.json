@@ -1,0 +1,28 @@
+{
+  "name": "lrutrack",
+  "version": "0.0.0",
+  "description": "LRU base for tracking when things should be disposed.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.foreach": "~2.1.0",
+    "lodash.reduce": "~2.1.0",
+    "lodash.values": "~2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/lrutrack"
+  },
+  "keywords": [
+    "lru",
+    "cache"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeal/lrutrack/issues"
+  }
+}
