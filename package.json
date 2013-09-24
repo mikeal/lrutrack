@@ -1,6 +1,6 @@
 {
   "name": "lrutrack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LRU base for tracking when things should be disposed.",
   "main": "index.js",
   "dependencies": {
