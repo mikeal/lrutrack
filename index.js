@@ -44,7 +44,7 @@ LRUTrack.prototype.trim = function () {
   var key
   while (this.length() > this.max) {
     key = this.arr.shift()
-    if (key === undefined) return console.log('fuck')
+    if (key === undefined) return
     this.del(key)
     this.emit('dispose', key, this.dict[key])
   }
