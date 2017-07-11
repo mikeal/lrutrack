@@ -4,9 +4,9 @@
   "description": "LRU base for tracking when things should be disposed.",
   "main": "index.js",
   "dependencies": {
-    "lodash.foreach": "~2.1.0",
-    "lodash.reduce": "~2.1.0",
-    "lodash.values": "~2.1.0"
+    "lodash.foreach": "~4.5.0",
+    "lodash.reduce": "~4.6.0",
+    "lodash.values": "~4.3.0"
   },
   "devDependencies": {},
   "scripts": {
